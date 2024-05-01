@@ -27,8 +27,8 @@ To decrypt an image:
 
 ## Files
 
-- `encrypt_image.py`: Script to encrypt an image using the trained autoencoder model.
-- `decrypt_image.py`: Script to decrypt an image using the trained autoencoder model.
+- `encryption.py`: Script to encrypt an image using the trained autoencoder model.
+- `decryption.py`: Script to decrypt an image using the trained autoencoder model.
 - `model/autoencoder_model.h5`: Trained autoencoder model.
 - `encryption/`: Directory to store encrypted images.
 - `decryption/`: Directory to store decrypted images.
